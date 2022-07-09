@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,300&family=Roboto+Condensed:wght@300&family=Roboto:wght@400;700&family=Teko&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loginbackground{
+    display: flex;
+    background-image:url(/public/asset/image\ 2.jpg);
+    height: 812px;
+    width: 376px;
+    margin-top: 3%;
+    margin-left: 40%;
+    position:absolute;
+    box-shadow: 5px 5px 15px black;
+}
+.loginbox{
+position: absolute;
+left: 0.27%;
+right: 8.53%;
+top: 0%;
+bottom: 6.53%;
+background:black ;
+opacity: 0.9;
+border-radius: 0px 0px 24px 0px;
+}
+.logoImage{
+background-image: url(/public/asset/LOGO.png);
+position: absolute;
+width: 156.88px;
+height: 72px;
+left: 33px;
+top: 51px;
+}
+.loginText{
+position: absolute;
+width: 195px;
+height: 60px;
+left: 33px;
+top: 171px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 125%;
+color: #FFFFFF;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.form-email{
+display: flex;
+flex-direction: row;
+box-sizing: border-box;
+color: #898F97;
+position: absolute;
+width: 276px;
+height: 58px;
+left: 33px;
+top: 303px;
+background: #09121C;
+border: 1px solid rgba(255, 255, 255, 0.15);
+border-radius: 16px 16px 0px 16px;
+}
+.form-email input{
+    background-color: transparent;
+    padding: 23px 23px 23px 0;
+    outline: none;
+    border: 0;
+    width: 100%;
+    font-size: 14px;
+    color: white;
+}
+.form-password{
+    display: flex;
+flex-direction: row;
+box-sizing: border-box;
+position: absolute;
+width: 276px;
+height: 58px;
+left: 33px;
+top: 377px;
+background: #09121C;
+border: 1px solid rgba(255, 255, 255, 0.15);
+border-radius: 16px 16px 0px 16px;
+color: #898F97;
+}
+.form-password input{
+background-color: transparent;
+padding: 23px 23px 23px 0;
+outline: none;
+border: 0;
+width: 100%;
+font-size: 14px;
+color: white;
+}
+.loginButton{
+position: absolute;
+width: 276px;
+height: 51px;
+left: 33px;
+top: 465px;
+background: #3369FF;
+box-shadow: 0px 5px 50px rgba(51, 105, 255, 0.7);
+border-radius: 99px;
+color: white;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+cursor: pointer;
+border: none;
+}
+.mail-icon{ 
+position: absolute;
+font-size: 15px;
+left:20px;
+top: 20px;
+background: transparent;
+color: #898F97;
+}
+.key-icon{
+position: absolute;
+font-size: 15px;
+left:20px;
+top: 20px;
+background: transparent;
+color: #898F97;
+}
+input[type="email"]::placeholder {
+                 
+    text-align: center;
+}
+input[type="email"]{
+    text-align:center;
+}
+input[type="password"]::placeholder {
+                 
+    text-align: center;
+}
+input[type="password"]{
+
+    text-align: center;
+}
