@@ -1,5 +1,24 @@
 # Getting Started with Create React App
 
+<br>
+
+## Login Page
+
+![Login Page](https://imgyukle.com/f/2022/07/10/VzYbcR.png)
+
+<br>
+
+## Browser Page
+
+![Browser Page](https://imgyukle.com/f/2022/07/10/VzYw1q.png)
+
+<br>
+
+## Podcast Page
+
+![Podcast Page](https://imgyukle.com/f/2022/07/10/VzaJHh.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
