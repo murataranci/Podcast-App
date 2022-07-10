@@ -8,7 +8,7 @@
 
 <br>
 
-## Browser Page
+## Browser  Page
 
 ![Browser Page](https://imgyukle.com/f/2022/07/10/VzYw1q.png)
 
