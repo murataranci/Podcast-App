@@ -4,19 +4,19 @@
 
 ## Login Page
 
-![Login Page](./public/asset/Read me/Login page)
+![Login Page](/public/asset/Read-me/Login-page.png)
 
 <br>
 
-## Browser  Page
+## Browser Page
 
-![Browser Page](https://imgyukle.com/f/2022/07/10/VzYw1q.png)
+![Browser Page](/public/asset/Read-me/Browser-page.png)
 
 <br>
 
 ## Podcast Page
 
-![Podcast Page](https://imgyukle.com/f/2022/07/10/VzaJHh.png)
+![Podcast Page](/public/asset/Read-me/Podcast-page.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
